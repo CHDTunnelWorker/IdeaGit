@@ -3,5 +3,7 @@ public class HelloGit {
         System.out.println("Hello,IDEA,Git");
 
         System.out.println("Second");
+
+        System.out.println("Third");
     }
 }
