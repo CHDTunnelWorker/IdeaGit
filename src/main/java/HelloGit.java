@@ -4,6 +4,6 @@ public class HelloGit {
 
         System.out.println("Second");
 
-        System.out.println("Third");
+        System.out.println("Conflict");
     }
 }
